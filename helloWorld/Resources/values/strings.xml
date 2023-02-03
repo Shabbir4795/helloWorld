@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">helloWorld</string>
+    <string name="app_text">Hello, Xamrin!</string>
+</resources>
